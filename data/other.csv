@@ -439,6 +439,7 @@ Bremerhavenweg,,,,way
 Bremstraat,,,,way
 Brinklaan,,,,way
 Bristolweg,,,,way
+Broerplein,,,,relation
 Broerstraat,,,,way
 Brouwersgang,,,,way
 Brouwerstraat,,,,way
@@ -473,7 +474,7 @@ Damsport,,,,way
 Damsterdiep,,,,way
 Damsterkade,,,,way
 Damsterpad,,,,way
-Damsterplein,,,,relation
+Damsterplein,,,,relation+way
 Damstersingel,,,,way
 Damsterwaard,,,,way
 Davidstraat,,,,way
@@ -514,6 +515,7 @@ Dolhuisgang,,,,way
 Donghornsterpad,,,,way
 Donghornstertunnel,,,,way
 Donkersgang,,,,way
+"Doorfietsroute Groningen-Winsum",,,,way
 Doornbosheerd,,,,way
 Dorkwerdersluis,,,,way
 Dragonstraat,,,,way
@@ -571,7 +573,6 @@ F,,,,way
 Fabriekslaan,,,,way
 Feldwerd,,,,way
 "Fietspad Noordelijke Ringweg",,,,way
-"Fietsroute Plus Groningen-Winsum",,,,way
 Fitterij,,,,way
 Fivelgolaan,,,,way
 Fivelstraat,,,,way
@@ -1281,7 +1282,6 @@ Vismarkt,,,,way
 Visserbrug,,,,way
 Visserstraat,,,,way
 Vlasstraat,,,,way
-Vlinderbalg,,,,way
 "Voor 't voormalig klein Poortje",,,,way
 Vooronder,,,,way
 Vosgang,,,,way
