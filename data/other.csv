@@ -158,7 +158,6 @@ Koperstraat,wikidata,,Q753,way
 Korenbloemstraat,wikidata,,Q156921,way
 Kornalijnlaan,wikidata,,Q324369,way
 Kornoeljestraat,wikidata,,Q159545,way
-Kotkaweg,wikidata,,Q192155,way
 Kraanvogelstraat,wikidata,,Q4764,way
 Kraneweg,wikidata,,Q2626241,way
 Kwartsstraat,wikidata,,Q43010,way
@@ -172,6 +171,7 @@ Leningradweg,wikidata,,Q656,way
 Lijsterbeslaan,wikidata,,Q157964,way
 Lindenhof,wikidata,,Q127849,way
 Lindenlaan,wikidata,,Q127849,way
+Lübeckweg,wikidata,,Q2843,way
 Madeliefstraat,wikidata,,Q26158,way
 Malmöweg,wikidata,,Q2211,way
 Maluslaan,wikidata,,Q104819,way
@@ -572,7 +572,6 @@ Eyssoniusstraat,,,,way
 F,,,,way
 Fabriekslaan,,,,way
 Feldwerd,,,,way
-"Fietspad Noordelijke Ringweg",,,,way
 Fitterij,,,,way
 Fivelgolaan,,,,way
 Fivelstraat,,,,way
@@ -585,6 +584,7 @@ Folkingedwarsstraat,,,,way
 Folkingestraat,,,,way
 Fongerspad,,,,way
 Fongersplaats,,,,way
+Fontijnstraat,,,,way
 Fossemaheerd,,,,way
 Framaheerd,,,,way
 Froukemaheerd,,,,way
@@ -699,7 +699,7 @@ Hoofdweg,,,,way
 Hoogeweg,,,,way
 Hoogkerkerplein,,,,way
 Hooglandsterpad,,,,way
-Hoogstraatje,,,,way
+Hoogstraat,,,,way
 "Hoornse Pad",,,,way
 "Hoornse Schans",,,,way
 Hoornstraatje,,,,way
@@ -845,6 +845,7 @@ Landstraat,,,,way
 Langestraat,,,,way
 Langewoldlaan,,,,way
 Langezijde,,,,way
+Langstraat,,,,way
 Langszij,,,,way
 Laskwerd,,,,way
 Lauwersstraat,,,,way
@@ -869,7 +870,6 @@ Londenweg,,,,way
 Loopplank,,,,way
 "Lopende Diep",,,,way
 Loppersummergang,,,,way
-Lübeckweg,,,,way
 Ludemaborg,,,,way
 Lunettenhof,,,,way
 Lutkenieuwstraat,,,,way
@@ -1041,6 +1041,7 @@ Piccardtlaan,,,,way
 Pijpstraat,,,,way
 Pimpernelstraat,,,,way
 Pioenstraat,,,,way
+Plataanpad,,,,way
 Platvoetspad,,,,way
 Pluimerstraat,,,,way
 Poelebrug,,,,way
@@ -1050,6 +1051,7 @@ Polderstraat,,,,way
 Polsgang,,,,way
 Poortersplein,,,,way
 Poortstraat,,,,way
+Poortweg,,,,way
 "Pop Dijkemaweg",,,,way
 Popkenstraat,,,,way
 Postrijdersgang,,,,way
@@ -1331,6 +1333,7 @@ Willemstraat,,,,way
 Wimpel,,,,way
 Windepad,,,,way
 Windestraat,,,,way
+Winkelstraat,,,,way
 Winschoterdiep,,,,way
 Winschoterkade,,,,way
 Winschoterweg,,,,way
