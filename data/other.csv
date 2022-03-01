@@ -16,6 +16,7 @@ Antwerpenweg,wikidata,,Q12892,way
 Aquamarijnpad,wikidata,,Q58959,way
 Aquamarijnstraat,wikidata,,Q58959,way
 Arduinlaan,wikidata,,Q325173,way
+Arubastraat,wikidata,,Q21203,way
 Asterstraat,wikidata,,Q517130,way
 Atoomweg,wikidata,,Q9121,way
 Avondsterlaan,wikidata,,Q313,way
@@ -168,6 +169,7 @@ Laurierstraat,wikidata,,Q26006,way
 Leeuwarderstraat,wikidata,,Q25390,way
 Leisteenstraat,wikidata,,Q207079,way
 Leningradweg,wikidata,,Q656,way
+Lierstraat,wikidata,,Q10484,way
 Lijsterbeslaan,wikidata,,Q157964,way
 Lindenhof,wikidata,,Q127849,way
 Lindenlaan,wikidata,,Q127849,way
@@ -300,6 +302,7 @@ Waldeck-Pyrmontplein,wikidata,,Q165763,way
 Waldeck-Pyrmontstraat,wikidata,,Q165763,way
 Wasaweg,wikidata,,Q125080,way
 Watermanstraat,wikidata,,Q10576,way
+Weegschaalstraat,wikidata,,Q10580,way
 Wegalaan,wikidata,,Q3427,way
 Wielewaalplein,wikidata,,Q25388,way
 Wilgenlaan,wikidata,,Q36050,way
@@ -358,7 +361,6 @@ Antillenstraat,,,,way
 Apoortenmolendrift,,,,way
 Arendalweg,,,,way
 Arteveldestraat,,,,way
-Arubastraat,,,,way
 Arwerd,,,,way
 Asingastraat,,,,way
 Astraat,,,,way
@@ -699,7 +701,7 @@ Hoofdweg,,,,way
 Hoogeweg,,,,way
 Hoogkerkerplein,,,,way
 Hooglandsterpad,,,,way
-Hoogstraat,,,,way
+Hoogstraatje,,,,way
 "Hoornse Pad",,,,way
 "Hoornse Schans",,,,way
 Hoornstraatje,,,,way
@@ -857,7 +859,6 @@ Lekstraat,,,,way
 Leliesingel,,,,way
 Lepelaar,,,,way
 Lichtboei,,,,way
-Lierstraat,,,,way
 Lijnbaanstraat,,,,way
 Lijzijde,,,,way
 Lingestraat,,,,way
@@ -868,7 +869,7 @@ Liverpoolweg,,,,way
 Loefzijde,,,,way
 Londenweg,,,,way
 Loopplank,,,,way
-"Lopende Diep",,,,way
+Lopendediep,,,,way
 Loppersummergang,,,,way
 Ludemaborg,,,,way
 Lunettenhof,,,,way
@@ -1291,7 +1292,6 @@ Vosgang,,,,way
 Vredelust,,,,way
 Vredewoldlaan,,,,way
 Vrijdal,,,,way
-Vrijheidsplein,,,,way
 Vrydemalaan,,,,way
 W,,,,way
 "W.F. Bathoornstraat",,,,way
@@ -1306,10 +1306,8 @@ Waterhoen,,,,way
 Waterhuizen,,,,way
 Waterland,,,,way
 Waterloolaan,,,,way
-Weegschaalstraat,,,,way
 Weendersweg,,,,way
 Weeshuisgang,,,,way
-"Weg der Verenigde Naties",,,,way
 Weiwerd,,,,way
 Werfstraat,,,,way
 West-Indischekade,,,,way
