@@ -24,6 +24,9 @@ jobs:
           persist-credentials: true
 
       - name: Checkout submodule
+        run: git submodule update --init website
+
+      - name: Checkout submodule
         run: git submodule update --init cities/netherlands/groningen
 
       - name: Setup Node.js
