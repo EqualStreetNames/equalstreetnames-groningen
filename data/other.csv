@@ -8,6 +8,7 @@ Aldebaranstraat,wikidata,,Q12170,way
 Algollaan,wikidata,,Q13080,way
 Aluminiumstraat,wikidata,,Q663,way
 Amethiststraat,wikidata,,Q79058,way
+Amstelstraat,wikidata,,Q185405,way
 Andromedastraat,wikidata,,Q9256,way
 Anemoonstraat,wikidata,,Q158286,way
 Anjelierstraat,wikidata,,Q156099,way
@@ -31,6 +32,7 @@ Berberisstraat,wikidata,,Q158503,way
 Bergenweg,wikidata,,Q26793,way
 Bergkristalstraat,wikidata,,Q2050687,way
 Berilstraat,wikidata,,Q103480,way
+Berkelstraat,wikidata,,Q707763,way
 Berkenlaan,wikidata,,Q25243,way
 Beukenlaan,wikidata,,Q59779138,way
 Bietenbrug,wikidata,,Q151964,way
@@ -135,6 +137,7 @@ Hortensialaan,wikidata,,Q155997,way
 Hunzedijk,wikidata,,Q1310069,way
 Hyacinthstraat,wikidata,,Q157428,way
 Hyadenpad,wikidata,,Q13511,way
+IJsselstraat,wikidata,,Q217818,way
 Iepenlaan,wikidata,,Q131113,way
 Irislaan,wikidata,,Q156901,way
 Jadestraat,wikidata,,Q175089,way
@@ -169,15 +172,19 @@ Kweldergras,wikidata,,Q157774,way
 "Laan 1940-1945",wikidata,,Q362,way
 Lamsoor,wikidata,,Q27952,way
 Laurierstraat,wikidata,,Q26006,way
+Lauwersstraat,wikidata,,Q505650,way
 Lavendelweg,wikidata,,Q171892,way
 Leeuwarderstraat,wikidata,,Q25390,way
 Leisteenstraat,wikidata,,Q207079,way
+Lekstraat,wikidata,,Q1143852,way
 Leningradweg,wikidata,,Q656,way
 Lierstraat,wikidata,,Q10484,way
 Lijsterbeslaan,wikidata,,Q157964,way
 Lindenhof,wikidata,,Q127849,way
 Lindenlaan,wikidata,,Q127849,way
+Lingestraat,wikidata,,Q1826546,way
 Lübeckweg,wikidata,,Q2843,way
+Maaslaan,wikidata,,Q41986,way
 Madeliefstraat,wikidata,,Q26158,way
 Malmöweg,wikidata,,Q2211,way
 Maluslaan,wikidata,,Q104819,way
@@ -190,6 +197,7 @@ Melkweg,wikidata,,Q8495,way
 Mercuriusstraat,wikidata,,Q308,way
 Merelstraat,wikidata,,Q25234,way
 Mergelstraat,wikidata,,Q184053,way
+Merwedestraat,wikidata,,Q282530,way
 Metaallaan,wikidata,,Q11426,way
 Meteoorstraat,wikidata,,Q131136,way
 Mezenplein,wikidata,,Q168473,way
@@ -254,6 +262,7 @@ Regulusstraat,wikidata,,Q13013,way
 Resedastraat,wikidata,,Q161061,way
 Ribesstraat,wikidata,,Q22691,way
 Rigaweg,wikidata,,Q1773,way
+Rijnstraat,wikidata,,Q584,way
 Ripperdalaan,wikidata,,Q329099,way
 Robijnstraat,wikidata,,Q43088,way
 "Rode Kruislaan",wikidata,,Q7178,way
@@ -265,6 +274,7 @@ Sabastraat,wikidata,,Q25528,way
 Saffierstraat,wikidata,,Q127583,way
 Saturnuslaan,wikidata,,Q193,way
 Scandinaviëweg,wikidata,,Q21195,way
+Scheldestraat,wikidata,,Q37620,way
 Schorpioenstraat,wikidata,,Q8865,way
 Schutterspad,wikidata,,Q97638866,way
 Seringenhof,wikidata,,Q157449,way
@@ -363,7 +373,6 @@ Almastraat,,,,way
 Amaliatunnel,,,,way
 Ambonstraat,,,,way
 Amkemaheerd,,,,way
-Amstelstraat,,,,way
 Andelstermaar,,,,way
 Anker,,,,way
 "Anna Paulownastraat",,,,way
@@ -404,7 +413,6 @@ Bentelaarsgang,,,,way
 Bentismaheerd,,,,way
 Beren,,,,way
 Bergstraat,,,,way
-Berkelstraat,,,,way
 Bernoulliplein,,,,way
 Bessemoerstraat,,,,way
 Beswerd,,,,way
@@ -728,7 +736,6 @@ Hunsingolaan,,,,way
 Hunzeboord,,,,way
 Hylkemaheerd,,,,way
 I,,,,way
-IJsselstraat,,,,way
 Idastraat,,,,way
 Illegaliteitslaan,,,,way
 Industriestraat,,,,way
@@ -861,17 +868,14 @@ Langezijde,,,,way
 Langstraat,,,,way
 Langszij,,,,way
 Laskwerd,,,,way
-Lauwersstraat,,,,way
 Leedsweg,,,,way
 Leegeweg,,,,way
 Leeuwenburgstraat,,,,way
-Lekstraat,,,,way
 Leliesingel,,,,way
 Lepelaar,,,,way
 Lichtboei,,,,way
 Lijnbaanstraat,,,,way
 Lijzijde,,,,way
-Lingestraat,,,,way
 Lintdal,,,,way
 Lintweg,,,,way
 Lissabonstraat,,,,way
@@ -887,7 +891,6 @@ Lunettenhof,,,,way
 Lutkenieuwstraat,,,,way
 M,,,,way
 Maagdenbrug,,,,way
-Maaslaan,,,,way
 Madijk,,,,way
 Madijkerbaan,,,,way
 Madoerastraat,,,,way
@@ -918,7 +921,6 @@ Meeuwerderweg,,,,way
 Melsemaheerd,,,,way
 Menadostraat,,,,way
 Menkemaheerd,,,,way
-Merwedestraat,,,,way
 Middelberterweg,,,,way
 Middenstraat,,,,way
 Middenweg,,,,way
@@ -1099,7 +1101,6 @@ Rensumaheerd,,,,way
 Rietgans,,,,way
 Rijksstraatweg,,,,way
 Rijksweg,,,,way
-Rijnstraat,,,,way
 Rijskampenstraat,,,,way
 Rijstebrijgang,,,,way
 Riouwstraat,,,,way
@@ -1125,7 +1126,6 @@ Sabotagelaan,,,,way
 Sauwerdermaar,,,,way
 Schaaksport,,,,way
 Schefferstraat,,,,way
-Scheldestraat,,,,way
 Scheltemaheerd,,,,way
 Schoenerstraat,,,,way
 Schoolholm,,,,way
@@ -1331,6 +1331,7 @@ Westerwoldelaan,,,,way
 Westinghousestraat,,,,way
 Westpoortboulevard,,,,way
 Wibenaheerd,,,,way
+Wilgenbrug,,,,way
 Wilhelmshavenweg,,,,way
 Wilkemaheerd,,,,way
 "Willem Barentzstraat",,,,way
