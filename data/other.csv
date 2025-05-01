@@ -553,7 +553,7 @@ Steenhouwerskade,wikidata,,Q328325,way
 Steiger,wikidata,,Q2240172,way
 Sterrebosstraat,wikidata,,Q2741266,way
 Sterrenpad,wikidata,,Q523,way
-Stettinweg,wikidata,,Q393,way
+Stettinweg,wikidata,,Q393,relation+way
 Stockholmstraat,wikidata,,Q1754,way
 Stokroosplein,wikidata,,Q27682,way
 Struisvogelstraat,wikidata,,Q17592,way
@@ -807,7 +807,6 @@ Dwarsdijkje,,,,way
 Dwarsstraat,,,,way
 Ebbingebrug,,,,way
 Ebbingedwinger,,,,way
-"Edo Stukje Plein",,,,way
 Edzemaheerd,,,,way
 "Eelkman Rooda Laantje",,,,way
 Eemshavenweg,,,,way
