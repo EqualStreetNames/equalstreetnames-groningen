@@ -541,7 +541,7 @@ Speenkruidstraat,wikidata,,Q157557,way
 Spicastraat,wikidata,,Q13008,way
 Spinelstraat,wikidata,,Q191310,way
 Spirealaan,wikidata,,Q148605,way
-Sportlaan,wikidata,,Q349,way
+Sportlaan,wikidata,,Q349,relation+way
 Stadhouderslaan,wikidata,,Q325380,way
 Stadsparkweg,wikidata,,Q2419924,way
 Stationsplein,wikidata,,Q12819564,way
@@ -888,6 +888,7 @@ Hegepad,,,,way
 Heijplaat,,,,way
 Heinsiusstraat,,,,way
 Helmsgang,,,,way
+"Helofytenlaan (Tuinwijck)",,,,way
 "Helper Esweg",,,,way
 Helperpad,,,,way
 Hendrikstraat,,,,way
@@ -898,6 +899,7 @@ Herehof,,,,way
 Herepoortenmolendrift,,,,way
 "Herman Bessem Pad",,,,way
 Hermanstraat,,,,way
+"Het Grote Veld (Tuinwijck)",,,,way
 "Het Hout",,,,way
 "Het Lansink",,,,way
 "Het Roege Bos",,,,way
@@ -932,6 +934,7 @@ Isebrandtsheerd,,,,way
 "Jacob Catsstraat",,,,way
 Jacobstraat,,,,way
 Jaltadaheerd,,,,way
+"Jan Evert Scholtenlaan (Tuinwijck)",,,,way
 "Jan Groningerstraat",,,,way
 "Jan Luykenstraat",,,,way
 "Jan van Evenhuispad",,,,way
@@ -1047,6 +1050,7 @@ Middenweg,,,,way
 Midscheeps,,,,way
 Moeskersgang,,,,way
 Moesstraat,,,,way
+"Moesstraat (Tuinwijck)",,,,way
 Molenstreek,,,,way
 Monnikhof,,,,way
 Mooiland,,,,way
@@ -1133,6 +1137,7 @@ Overloop,,,,way
 "P+R Reitdiep",,,,way
 "P. Waijerstraat",,,,way
 Paaipad,,,,way
+"Paddenpoellaan (Tuinwijck)",,,,way
 Palmslag,,,,way
 Papengang,,,,way
 Papiermolenlaan,,,,way
@@ -1238,6 +1243,7 @@ Spakenpad,,,,way
 Speldemakersgang,,,,way
 Spijksterriet,,,,way
 Spilsluizen,,,,way
+"Spoorlaan (Tuinwijck)",,,,way
 Spoormakersgang,,,,way
 Sprikkenburg,,,,way
 "St. Eustatiusstraat",,,,way
@@ -1273,6 +1279,7 @@ Toppingaheerd,,,,way
 Toxopeusstraat,,,,way
 Tressenplaats,,,,way
 Tuinbouwdwarsstraat,,,,way
+Tuinwijcklaan,,,,way
 Turftorenstraat,,,,way
 "Tussen beide Markten",,,,way
 "Tweede Drift Spilsluizen",,,,way
@@ -1310,6 +1317,7 @@ Viaductstraat,,,,way
 "Vierde Drift Noorderhaven",,,,way
 "Vijfde Drift Noorderhaven",,,,way
 Vishoek,,,,way
+"Vlinderlaan (Tuinwijck)",,,,way
 "Voor 't voormalig klein Poortje",,,,way
 "Voormalige drafbaan",,,,relation
 Vooronder,,,,way
@@ -1326,6 +1334,7 @@ Waterhuizen,,,,way
 Waterloolaan,,,,way
 Weendersweg,,,,way
 Weeshuisgang,,,,way
+"Weg van de Woeste Weelde (Tuinwijck)",,,,way
 West-Indischekade,,,,way
 "Wester Badstraat",,,,way
 Westerbinnensingel,,,,way
@@ -1373,3 +1382,4 @@ Zwanebloemstraat,,,,way
 Zwanestraat,,,,way
 Zwarteweg,,,,way
 "tijdelijke Visserbrug",,,,way
+"v. K. Verschuurbrug",,,,way
