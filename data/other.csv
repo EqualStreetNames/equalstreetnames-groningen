@@ -29,6 +29,8 @@ Akerkhof,,,,relation+way
 Akerkstraat,,,,way
 Albertstraat,,,,way
 Albrondaheerd,,,,way
+"Aleida Jansenstraat",,,,way
+"Aletta Jacobshal",,,,way
 Alexanderstraat,,,,way
 Allersmastraat,,,,way
 Almastraat,,,,way
@@ -54,6 +56,7 @@ Barwerd,,,,way
 Battengang,,,,way
 Beckerweg,,,,way
 Bekemaheerd,,,,way
+"Ben Feringasingel",,,,way
 Bentelaarsgang,,,,way
 Bentismaheerd,,,,way
 Beren,,,,way
@@ -179,6 +182,7 @@ Entensgang,,,,way
 Eruopaweg,,,,way
 Espad,,,,way
 Esperantopad,,,,way
+"Etta Palmplein",,,,way
 "Evert Harm Woltersweg",,,,way
 Feldwerd,,,,way
 Fitterij,,,,way
@@ -242,6 +246,7 @@ Helmsgang,,,,way
 Helperpad,,,,way
 Hendrikstraat,,,,way
 "Henk Cornelisstraat",,,,way
+"Hennah Buynestraat",,,,way
 Heratemaheerd,,,,way
 Herebinnensingel,,,,way
 Herehof,,,,way
@@ -260,7 +265,7 @@ Hoekstraat,,,,way
 Hofstraat,,,,way
 Holmsterheerd,,,,way
 Holtstek,,,,way
-Hoofdstation,,,,way
+Hoofdstation,,,,relation+way
 Hoofdweg,,,,way
 Hoogeweg,,,,way
 Hoogkerkerplein,,,,way
@@ -285,6 +290,7 @@ Jacobstraat,,,,way
 Jaltadaheerd,,,,way
 "Jan Evert Scholtenlaan (Tuinwijck)",,,,way
 "Jan Groningerstraat",,,,way
+"Jan Hissink Janssenstraat",,,,way
 "Jan Luykenstraat",,,,way
 "Jan van Evenhuispad",,,,way
 Jaspersgang,,,,way
@@ -293,6 +299,8 @@ Jensemaheerd,,,,way
 "Johannes Mulderstraat",,,,way
 Jonkerstraat,,,,way
 "Jopie Buiterbrug",,,,way
+"Julia Culpstraat",,,,way
+Julianaplein,,,,way
 Jullensstraat,,,,way
 Kadijk,,,,way
 Kamerlingheplein,,,,way
@@ -386,6 +394,7 @@ Marwixkade,,,,way
 Marwixstraat,,,,way
 Matsloot,,,,way
 Meedenpad,,,,way
+"Meent van der Sluisstraat",,,,way
 Meerstadlaan,,,,way
 Meeuwerderbaan,,,,way
 Meeuwerderpad,,,,way
@@ -479,7 +488,7 @@ Ossenmarkt,,,,relation+way
 "Oude Stationsweg",,,,way
 Oudeweg,,,,way
 Overloop,,,,way
-"P+R Euroborg P3",,,,way
+"P+R Euroborg",,,,way
 "P+R Hoogkerk A7",,,,relation+way
 "P+R Kardinge",,,,relation+way
 "P+R Meerstad",,,,way
@@ -597,7 +606,7 @@ Spoormakersgang,,,,way
 Sprikkenburg,,,,way
 "St. Eustatiusstraat",,,,way
 Stadsbalkon,,,,relation
-Stadspark,,,,way
+Stadspark,,,,relation+way
 Stadsweg,,,,way
 Stalstraat,,,,way
 "Star Numanstraat",,,,way
@@ -707,8 +716,10 @@ Witlattenstraat,,,,way
 Wolddijk,,,,way
 Woldjerspoorweg,,,,way
 Woldweg,,,,way
+"Wolter van der Weideweg",,,,way
 Woonschepenhaven,,,,way
 Woonschepenstraat,,,,way
+"Wubbo Ockelslaan",,,,way
 Ypemaheerd,,,,way
 Ypenmolendrift,,,,way
 Zaagmuldersbrug,,,,relation
